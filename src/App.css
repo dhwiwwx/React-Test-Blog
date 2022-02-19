@@ -4,6 +4,11 @@
 body{
   font-family:'nanumsquare';
 }
+.modal{
+  margin-top: 20px;
+  padding: 20px;
+  background: #eee;
+}
 .gray-nav{
   background-color: rgb(78, 75, 75);
   width: 100%;
